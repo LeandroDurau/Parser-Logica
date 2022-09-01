@@ -1,0 +1,14 @@
+13
+T
+F
+a
+( T )
+( \neg T )
+( \rightarrow T )
+( \rightarrow ( \leftrightarrow F F ) ( \vee F a ) )
+( \wedge ( T ) F )
+( \neg T F )
+\neg T 
+( \wedge a a )
+( \neg a )
+( \vee ( \neg a ) a )
